@@ -47,7 +47,7 @@
             this.ClientSize = new System.Drawing.Size(284, 261);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Hej Love";
+            this.Text = "Hej Emil";
             this.ResumeLayout(false);
             this.PerformLayout();
 
